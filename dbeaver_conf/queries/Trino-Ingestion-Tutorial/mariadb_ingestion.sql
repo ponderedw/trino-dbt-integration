@@ -28,3 +28,6 @@ VALUES
 
 -- Query to view the inserted data
 SELECT * FROM db.customers;
+
+
+

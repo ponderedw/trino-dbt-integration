@@ -1,4 +1,6 @@
 #!/bin/bash
 
-# Open URLs in Google Chrome
-open -a "Google Chrome" "http://localhost:8089" "http://localhost:8888" "http://localhost:80" "http://localhost:8080" 
+echo "Superset:     http://localhost:8089"
+echo "Jupyter:      http://localhost:8888"
+echo "dbt docs:     http://localhost:80"
+echo "Trino:        http://localhost:8080"
